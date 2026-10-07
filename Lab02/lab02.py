@@ -1,1 +1,15 @@
 #Use this file to complete the lab
+print("Lab 02,  80 point Version")
+print()
+print()
+print(")measure today's knowledge", end="")
+print("by yesterday's confusion.")
+print()
+print("Bewilderment + Exposure = obvious")
+print()
+
+print("#  #####  #####        ##### ##### # #      #  #####    #####")
+print("#  #   #  #   #        #   # #   # # ##     #    #      #")
+print("#  #   #  #   #        ##### #   # # #  #   #    #      #####")
+print("#  #   #  #   #        #     #   # # #    # #    #          #")
+print("#  #####  #####        #     ##### # #     #     #      #####")
