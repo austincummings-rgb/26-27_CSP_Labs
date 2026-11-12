@@ -7,7 +7,7 @@ WIDTH = 980
 HEIGHT = 630
 
 
-def draw_line(t, x1, y1, x2, y2):
+def draw_line(t: object, x1: object, y1: object, x2: object, y2: object) -> None:
     """Draw one straight line from (x1, y1) to (x2, y2)."""
     t.penup()
     t.goto(x1, y1)
